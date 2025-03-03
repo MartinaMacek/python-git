@@ -1,2 +1,3 @@
 print("Posílám program do Gitu.")
-print("přidávám další řádek.")
+print("Přidávám další řádek.")
+print("Třetí commit.")
