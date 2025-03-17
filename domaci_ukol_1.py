@@ -39,18 +39,17 @@ class Residence(Property):
         self.area = area
         self.commercial = commercial
     def calculate_tax(self):
+        tax_multiplier = 15
+        tax = self.area * self.locality.locality_coefficient * tax_multiplier
         if self.commercial:
-            tax = (self.area * self.locality.locality_coefficient * 15) * 2
-            return math.ceil(tax)
-        else:
-            tax = self.area * self.locality.locality_coefficient * 15
-            return math.ceil(tax)
+            tax = tax * 2
+        return math.ceil(tax)
     def __str__(self):
-        if self.commercial == True:
-            self.commercial = "komerční"
+        if self.commercial:
+            commercial_status = "komerční" 
         else:
-            self.commercial = "nekomerční"
-        return (f"Rezidence ({self.commercial}), lokalita {self.locality.name} (koeficient {self.locality.locality_coefficient}), {self.area} m2, daň {self.calculate_tax()} Kč.")
+            commercial_status = "nekomerční"
+        return (f"Rezidence ({commercial_status}), lokalita {self.locality.name} (koeficient {self.locality.locality_coefficient}), {self.area} m2, daň {self.calculate_tax()} Kč.")
 
 # lokalita
 manetin = Locality("Manětín", 0.8)
