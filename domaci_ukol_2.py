@@ -59,3 +59,42 @@ for subjekt in ekonomickeSubjekty:
     ico = subjekt.get("ico", "Neznámé IČO")
     print(f"{obchodni_jmeno}, {ico}")
 
+# BONUS
+
+# načti číselník právních forem
+headers = {
+    "accept": "application/json",
+    "Content-Type": "application/json",
+}
+data = '{"kodCiselniku": "PravniForma", "zdrojCiselniku": "res"}'
+
+res = requests.post(
+    "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ciselniky-nazevniky/vyhledat",
+    headers=headers,
+    data=data
+)
+vypis_ciselniky = res.json()
+
+# uložení dat do souboru json
+with open("ciselnik.json", mode = "w", encoding = "utf-8") as file:
+    json.dump(vypis_ciselniky, file, ensure_ascii = False, indent = 4)
+
+# Získej seznam právních forem
+ciselniky = vypis_ciselniky.get("ciselniky", [])
+prvni_ciselnik = ciselniky[0]
+polozky = ciselniky[0].get("polozkyCiselniku", [])
+
+# Funkce pro převod kódu na název právní formy
+def find_legal_form(kod, polozky_ciselniku):
+    for polozka in polozky_ciselniku:
+        if polozka.get("kod") == kod:
+            return polozka.get("hodnota", "Nenalezeno")
+    return "Nenalezeno"
+
+# výpis jména, IČO a právní formy
+for subjekt in ekonomickeSubjekty:
+    obchodni_jmeno = subjekt["obchodniJmeno"]
+    ico = subjekt["ico"]
+    kod_pravni_formy = subjekt["pravniForma"]
+    pravni_forma = find_legal_form(kod_pravni_formy, polozky)
+    print(f"{obchodni_jmeno}, {ico}, {pravni_forma}")
