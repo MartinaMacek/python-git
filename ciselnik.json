@@ -1,0 +1,1563 @@
+{
+    "pocetCelkem": 1,
+    "ciselniky": [
+        {
+            "kodCiselniku": "PravniForma",
+            "nazevCiselniku": "Pravní forma",
+            "polozkyCiselniku": [
+                {
+                    "kod": "000",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zatím neurčeno"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "101",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fyzická osoba podnikající dle živnostenského zákona"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "102",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fyzická osoba podnikající dle živnostenského zákona zapsaná v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "103",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Samostatně hospodařící rolník nezapsaný v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "1991-07-01",
+                    "platnostDo": "2009-04-30"
+                },
+                {
+                    "kod": "104",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Samostatně hospodařící rolník zapsaný v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "1991-07-01",
+                    "platnostDo": "2009-12-31"
+                },
+                {
+                    "kod": "105",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fyzická osoba podnikající dle jiných zákonů než živnostenského a zákona o zemědělství"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "106",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fyzická osoba podnikající dle jiných zákonů než živnostenského a o samost. hosp. rolnících zapsaná v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "1992-06-01",
+                    "platnostDo": "2004-04-30"
+                },
+                {
+                    "kod": "106",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fyzická osoba podnikající dle jiných zákonů než živnostenského a zákona o zemědělství zapsaná v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "2004-05-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "107",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zemědělský podnikatel - fyzická osoba"
+                        }
+                    ],
+                    "platnostOd": "2004-05-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "108",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zemědělský podnikatel - fyzická osoba zapsaná v obchodním rejstříku"
+                        }
+                    ],
+                    "platnostOd": "2004-05-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "111",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Veřejná obchodní společnost"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "112",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společnost s ručením omezeným"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "113",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společnost komanditní"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "114",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společnost komanditní na akcie"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "115",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společný podnik"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "116",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zájmové sdružení"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "117",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Nadace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "118",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Nadační fond"
+                        }
+                    ],
+                    "platnostOd": "1998-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "121",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Akciová společnost"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "131",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Svépomocné zemědělské družstvo"
+                        }
+                    ],
+                    "platnostOd": "1991-03-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "141",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Obecně prospěšná společnost"
+                        }
+                    ],
+                    "platnostOd": "1996-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "145",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společenství vlastníků jednotek"
+                        }
+                    ],
+                    "platnostOd": "2000-04-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "151",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Komoditní burza"
+                        }
+                    ],
+                    "platnostOd": "2010-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "161",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Ústav"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "201",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zemědělské družstvo"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "205",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Družstvo"
+                        }
+                    ],
+                    "platnostOd": "1991-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "211",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Družstevní podnik zemědělský"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "231",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Výrobní družstvo"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "232",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Spotřební družstvo"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "233",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Bytové družstvo"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "234",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Jiné družstvo"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "241",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Družstevní podnik (s jedním zakladatelem)"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "242",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společný podnik (s více zakladateli)"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "251",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zájmová organizace družstev"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "261",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Společná zájmová organizace družstev"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "301",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Státní podnik"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "311",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Státní banka československá"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "312",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Banka-státní peněžní ústav"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "313",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Česká národní banka"
+                        }
+                    ],
+                    "platnostOd": "1993-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "314",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Česká konsolidační agentura"
+                        }
+                    ],
+                    "platnostOd": "1993-01-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "321",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Rozpočtová organizace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2001-06-30"
+                },
+                {
+                    "kod": "325",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační složka státu"
+                        }
+                    ],
+                    "platnostOd": "2001-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "326",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Stálý rozhodčí soud"
+                        }
+                    ],
+                    "platnostOd": "2013-04-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "331",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Příspěvková organizace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "341",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Státní hospodářská organizace řízená okresním úřadem"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "343",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Obecní podnik"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "351",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Československé státní dráhy - státní organizace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "352",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "České dráhy"
+                        }
+                    ],
+                    "platnostOd": "1993-01-01",
+                    "platnostDo": "2002-12-31"
+                },
+                {
+                    "kod": "352",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Správa železniční dopravní cesty, státní organizace"
+                        }
+                    ],
+                    "platnostOd": "2003-01-01",
+                    "platnostDo": "2020-01-31"
+                },
+                {
+                    "kod": "352",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Státní organizace Správa železnic"
+                        }
+                    ],
+                    "platnostOd": "2020-02-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "353",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Rada pro veřejný dohled nad auditem"
+                        }
+                    ],
+                    "platnostOd": "2009-04-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "361",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Veřejně prospěšná instituce"
+                        }
+                    ],
+                    "platnostOd": "1993-01-01",
+                    "platnostDo": "2001-12-31"
+                },
+                {
+                    "kod": "361",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Veřejnoprávní instituce (ČT,ČRo,ČTK)"
+                        }
+                    ],
+                    "platnostOd": "2002-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "381",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fond (ze zákona)"
+                        }
+                    ],
+                    "platnostOd": "1991-06-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "391",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zdravotní pojišťovna"
+                        }
+                    ],
+                    "platnostOd": "1993-05-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "401",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Sdružení mezinárodního obchodu"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "411",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Podnik se zahraniční majetkovou účastí"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "421",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Odštěpný závod zahraniční právnické osoby"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "422",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační složka zahraničního nadačního fondu"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "423",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační složka zahraniční nadace"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "424",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zahraniční fyzická osoba"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "425",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Odštěpný závod zahraniční fyzické osoby"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "426",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zastoupení zahraniční banky"
+                        }
+                    ],
+                    "platnostOd": "2017-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "431",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Banka - akciová společnost"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-12-31"
+                },
+                {
+                    "kod": "432",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Spořitelna"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-02-01"
+                },
+                {
+                    "kod": "435",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pojišťovna - státní podnik"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "436",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pojišťovna - akciová společnost"
+                        }
+                    ],
+                    "platnostOd": "1991-06-01",
+                    "platnostDo": "2002-12-31"
+                },
+                {
+                    "kod": "437",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pojišťovna - družstvo"
+                        }
+                    ],
+                    "platnostOd": "1991-06-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "438",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pojišťovna - družstevní podnik"
+                        }
+                    ],
+                    "platnostOd": "1991-06-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "441",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Podnik zahraničního obchodu"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "442",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Účelová zahraničně obchodní organizace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "501",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Odštěpný závod nebo jiná organizační složka podniku zapisující se do obchodního rejstříku"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "511",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pobočka státního peněžního ústavu"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-12-31"
+                },
+                {
+                    "kod": "513",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pobočka spořitelny"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-02-01"
+                },
+                {
+                    "kod": "514",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Oblastní závod pojišťovny"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1991-05-28"
+                },
+                {
+                    "kod": "521",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Samostatná drobná provozovna obecního úřadu"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "531",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Oblastní organizační jednotka ČD"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "532",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Účelová organizační jednotka ČD"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "533",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Specializovaná organizační jednotka ČD"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-04-30"
+                },
+                {
+                    "kod": "534",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Jednotka státní drážní -technická inspekce"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "535",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Jednotka sboru ozbrojené ochrany železnic"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "536",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Jednotka drážního správního úřadu"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "541",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Podílový, penzijní fond"
+                        }
+                    ],
+                    "platnostOd": "1993-09-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "601",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Vysoká škola (veřejná, státní)"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "602",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Fakulta vysoké školy"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1998-12-31"
+                },
+                {
+                    "kod": "603",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Jiné pracoviště vysoké školy / fakulty"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "1998-12-31"
+                },
+                {
+                    "kod": "611",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Střední škola"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2005-01-01"
+                },
+                {
+                    "kod": "621",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Základní škola"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2005-01-01"
+                },
+                {
+                    "kod": "625",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Školské zařízení"
+                        }
+                    ],
+                    "platnostOd": "1991-10-01",
+                    "platnostDo": "2005-01-01"
+                },
+                {
+                    "kod": "631",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Předškolní zařízení"
+                        }
+                    ],
+                    "platnostOd": "1991-10-01",
+                    "platnostDo": "2005-01-01"
+                },
+                {
+                    "kod": "641",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Školská právnická osoba"
+                        }
+                    ],
+                    "platnostOd": "2005-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "651",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zdravotnické zařízení"
+                        }
+                    ],
+                    "platnostOd": "1991-07-01",
+                    "platnostDo": "2000-12-31"
+                },
+                {
+                    "kod": "661",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Veřejná výzkumná instituce"
+                        }
+                    ],
+                    "platnostOd": "2005-09-13",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "671",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Veřejné neziskové ústavní zdravotnické zařízení"
+                        }
+                    ],
+                    "platnostOd": "2006-06-01",
+                    "platnostDo": "2011-12-30"
+                },
+                {
+                    "kod": "701",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Sdružení (svaz, spolek, společnost, klub aj.)"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2013-12-31"
+                },
+                {
+                    "kod": "702",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pojišťovací spolek"
+                        }
+                    ],
+                    "platnostOd": "1991-06-01",
+                    "platnostDo": "1992-12-31"
+                },
+                {
+                    "kod": "703",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Odborová organizace a organizace zaměstnavatelů"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "2018-01-31"
+                },
+                {
+                    "kod": "704",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zvláštní organizace pro zastoupení českých zájmů v mezinárodních nevládních organizacích"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "705",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Podnik nebo hospodářské zařízení sdružení"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "706",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Spolek"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "707",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Odborová organizace"
+                        }
+                    ],
+                    "platnostOd": "2017-11-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "708",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizace zaměstnavatelů"
+                        }
+                    ],
+                    "platnostOd": "2017-11-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "711",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Politická strana, politické hnutí"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "715",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Podnik nebo hospodářské zařízení politické strany"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "721",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Církevní organizace a náboženské společnosti"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2016-12-31"
+                },
+                {
+                    "kod": "721",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Církve a náboženské společnosti"
+                        }
+                    ],
+                    "platnostOd": "2017-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "722",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Evidované církevní právnické osoby"
+                        }
+                    ],
+                    "platnostOd": "2017-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "723",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Svazy církví a náboženských společností"
+                        }
+                    ],
+                    "platnostOd": "2017-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "731",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační jednotka sdružení"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2017-12-31"
+                },
+                {
+                    "kod": "732",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační jednotka politické strany, politického hnutí"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2013-03-31"
+                },
+                {
+                    "kod": "733",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační jednotka odborové organizace a organizace zaměstnavatelů"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "734",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační jednotka zvláštní organizace pro zastoupení českých zájmů v mezinárodních nevládních organizacích"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "736",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pobočný spolek"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "741",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Stavovská organizace - profesní komora"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "745",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Komora (s výjimkou profesních komor)"
+                        }
+                    ],
+                    "platnostOd": "1992-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "751",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zájmové sdružení právnických osob"
+                        }
+                    ],
+                    "platnostOd": "1992-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "761",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Honební společenstvo"
+                        }
+                    ],
+                    "platnostOd": "2002-07-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "771",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Dobrovolný svazek obcí"
+                        }
+                    ],
+                    "platnostOd": "2001-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "801",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Obec (obecní úřad)"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2001-12-31"
+                },
+                {
+                    "kod": "801",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Obec nebo městská část hlavního města Prahy"
+                        }
+                    ],
+                    "platnostOd": "2002-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "802",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Okresní úřad"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "2002-12-31"
+                },
+                {
+                    "kod": "804",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Kraj a hl.m.Praha"
+                        }
+                    ],
+                    "platnostOd": "2000-11-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "805",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Regionální rada regionu soudržnosti"
+                        }
+                    ],
+                    "platnostOd": "2006-07-01",
+                    "platnostDo": "2021-12-31"
+                },
+                {
+                    "kod": "901",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zastupitelský orgán jiných států"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "906",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zahraniční spolek"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "907",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Mezinárodní odborová organizace"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "908",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Mezinárodní organizace zaměstnavatelů"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "911",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zahraniční kulturní, informační středisko, rozhlasová, tisková a televizní agentura"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "921",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Mezinárodní nevládní organizace"
+                        }
+                    ],
+                    "platnostOd": "1900-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "922",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Organizační jednotka mezinárodní nevládní organizace"
+                        }
+                    ],
+                    "platnostOd": "2010-07-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "931",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Evropské hospodářské zájmové sdružení"
+                        }
+                    ],
+                    "platnostOd": "2004-06-15",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "932",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Evropská společnost"
+                        }
+                    ],
+                    "platnostOd": "2004-12-14",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "933",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Evropská družstevní společnost"
+                        }
+                    ],
+                    "platnostOd": "2006-08-18",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "936",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Zahraniční pobočný spolek"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "937",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pobočná mezinárodní odborová organizace"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "2017-12-31"
+                },
+                {
+                    "kod": "938",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Pobočná mezinárodní organizace zaměstnavatelů"
+                        }
+                    ],
+                    "platnostOd": "2014-01-01",
+                    "platnostDo": "2017-12-31"
+                },
+                {
+                    "kod": "941",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Evropské seskupení pro územní spolupráci"
+                        }
+                    ],
+                    "platnostOd": "2008-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "950",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Subjekt právním řádem výslovně neupravený"
+                        }
+                    ],
+                    "platnostOd": "2007-07-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "951",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Mezinárodní vojenská organizace vzniklá na základě mezinárodní smlouvy"
+                        }
+                    ],
+                    "platnostOd": "2018-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "952",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Konsorcium evropské výzkumné infrastruktury"
+                        }
+                    ],
+                    "platnostOd": "2020-01-01",
+                    "platnostDo": "9999-09-09"
+                },
+                {
+                    "kod": "960",
+                    "nazev": [
+                        {
+                            "kodJazyka": "cs",
+                            "nazev": "Právnická osoba zřízená zvláštním zákonem zapisovaná do veřejného rejstříku"
+                        }
+                    ],
+                    "platnostOd": "2016-06-01",
+                    "platnostDo": "9999-09-09"
+                }
+            ],
+            "zdrojCiselniku": "res"
+        }
+    ]
+}

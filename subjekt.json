@@ -1,0 +1,141 @@
+{
+    "ico": "22834958",
+    "obchodniJmeno": "Czechitas z.ú.",
+    "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 19,
+        "nazevKraje": "Hlavní město Praha",
+        "kodObce": 554782,
+        "nazevObce": "Praha",
+        "kodSpravnihoObvodu": 19,
+        "nazevSpravnihoObvodu": "Praha 1",
+        "kodMestskehoObvodu": 19,
+        "nazevMestskehoObvodu": "Praha 1",
+        "kodMestskeCastiObvodu": 500054,
+        "kodUlice": 453226,
+        "nazevMestskeCastiObvodu": "Praha 1",
+        "nazevUlice": "Krakovská",
+        "cisloDomovni": 583,
+        "kodCastiObce": 490148,
+        "cisloOrientacni": 9,
+        "nazevCastiObce": "Nové Město",
+        "kodAdresnihoMista": 21703574,
+        "psc": 11000,
+        "textovaAdresa": "Krakovská 583/9, Nové Město, 11000 Praha 1",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+    },
+    "pravniForma": "161",
+    "financniUrad": "001",
+    "datumVzniku": "2009-09-18",
+    "datumAktualizace": "2024-12-27",
+    "dic": "CZ22834958",
+    "icoId": "22834958",
+    "adresaDorucovaci": {
+        "radekAdresy1": "Krakovská 583/9\nNové Město\n11000 Praha 1"
+    },
+    "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "AKTIVNI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+    },
+    "primarniZdroj": "vr",
+    "dalsiUdaje": [
+        {
+            "obchodniJmeno": [
+                {
+                    "obchodniJmeno": "Czechitas z.ú.",
+                    "primarniZaznam": true
+                }
+            ],
+            "sidlo": [
+                {
+                    "sidlo": {
+                        "kodStatu": "CZ",
+                        "nazevStatu": "Česká republika",
+                        "kodKraje": 19,
+                        "nazevKraje": "Hlavní město Praha",
+                        "kodObce": 554782,
+                        "nazevObce": "Praha",
+                        "kodSpravnihoObvodu": 19,
+                        "nazevSpravnihoObvodu": "Praha 1",
+                        "kodMestskehoObvodu": 19,
+                        "nazevMestskehoObvodu": "Praha 1",
+                        "kodMestskeCastiObvodu": 500054,
+                        "kodUlice": 453226,
+                        "nazevMestskeCastiObvodu": "Praha 1",
+                        "nazevUlice": "Krakovská",
+                        "cisloDomovni": 583,
+                        "kodCastiObce": 490148,
+                        "cisloOrientacni": 9,
+                        "nazevCastiObce": "Nové Město",
+                        "kodAdresnihoMista": 21703574,
+                        "psc": 11000,
+                        "textovaAdresa": "Krakovská 583/9, Nové Město, 11000 Praha 1",
+                        "standardizaceAdresy": true,
+                        "typCisloDomovni": 1
+                    },
+                    "primarniZaznam": true
+                }
+            ],
+            "pravniForma": "161",
+            "datovyZdroj": "res"
+        },
+        {
+            "obchodniJmeno": [
+                {
+                    "obchodniJmeno": "Czechitas z.ú.",
+                    "primarniZaznam": true
+                }
+            ],
+            "sidlo": [
+                {
+                    "sidlo": {
+                        "kodStatu": "CZ",
+                        "nazevStatu": "Česká republika",
+                        "kodKraje": 19,
+                        "nazevKraje": "Hlavní město Praha",
+                        "kodObce": 554782,
+                        "nazevObce": "Praha",
+                        "kodSpravnihoObvodu": 19,
+                        "nazevSpravnihoObvodu": "Praha 1",
+                        "kodMestskehoObvodu": 19,
+                        "nazevMestskehoObvodu": "Praha 1",
+                        "kodMestskeCastiObvodu": 500054,
+                        "kodUlice": 453226,
+                        "nazevMestskeCastiObvodu": "Praha 1",
+                        "nazevUlice": "Krakovská",
+                        "cisloDomovni": 583,
+                        "kodCastiObce": 490148,
+                        "cisloOrientacni": 9,
+                        "nazevCastiObce": "Nové Město",
+                        "kodAdresnihoMista": 21703574,
+                        "psc": 11000,
+                        "textovaAdresa": "Krakovská 583/9, Nové Město, 11000 Praha 1",
+                        "standardizaceAdresy": true,
+                        "typCisloDomovni": 1
+                    },
+                    "primarniZaznam": true
+                }
+            ],
+            "pravniForma": "161",
+            "spisovaZnacka": "U 1000/MSPH",
+            "datovyZdroj": "vr"
+        }
+    ],
+    "czNace": [
+        "9499"
+    ]
+}
